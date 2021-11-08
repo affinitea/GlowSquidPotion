@@ -1,0 +1,10 @@
+--- 
+api-version: "1.17"
+author: affinity
+commands: 
+  glowpot: 
+    description: "gives the glow squid potion"
+    usage: /glowpot
+main: me.affinity.glowpotionfin.GlowPotionFin
+name: GlowPotionFin
+version: 1.0
